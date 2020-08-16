@@ -1,0 +1,24 @@
+{
+  "name": "labyrinth",
+  "version": "1.0.0",
+  "description": "Javascript game of the classic board game Labyrinth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve . --listen 8000"
+  },
+  "keywords": [
+    "es6",
+    "labyrinth"
+  ],
+  "author": "Mantsje",
+  "license": "ISC",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "serve": "^11.3.2"
+  },
+  "dependencies": {
+    "eslint": "^7.6.0",
+    "prettier": "^2.0.5"
+  }
+}
